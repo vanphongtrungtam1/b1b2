@@ -1,0 +1,23 @@
+CFL – INFOSESSION VSTEP B1 & B2 | GITHUB PAGES
+============================================
+
+NỘI DUNG
+- Website trình chiếu 7 trang: Bắt đầu | B1 & B2 | Listening | Reading | Writing | Speaking | 5 bí quyết.
+- Tóm tắt tài liệu VSTEP B1 & B2 dành cho tân sinh viên, ưu tiên ngắn gọn và minh họa Owlie.
+- Chọn mục tiêu B1 hoặc B2 tại trang “B1 & B2” để đổi lời khuyên theo từng kỹ năng.
+- Nút “Xem mẹo chi tiết” mở lời giải thích và ví dụ từ tài liệu được cung cấp.
+- Hỗ trợ bàn phím: mũi tên trái/phải, Page Up/Down, Home, End. Có nút trình chiếu toàn màn hình.
+
+TẢI LÊN GITHUB PAGES
+1. Tạo repository GitHub mới (để không ghi đè website CFL VSTEP cũ).
+2. Giải nén ZIP, upload TẤT CẢ tệp vào thư mục gốc repository.
+3. Settings > Pages > Build and deployment > Deploy from a branch.
+4. Chọn nhánh main và thư mục /(root), sau đó Save.
+5. Mở liên kết do GitHub Pages cung cấp. Nếu cần, tải lại bằng Ctrl+F5.
+
+LƯU Ý
+- Không cần tạo thư mục con. index.html, style.css, script.js và ảnh .webp cùng cấp.
+- Website sử dụng HTML/CSS/JS thuần, không yêu cầu server/database.
+- Font Be Vietnam Pro được tải qua Google Fonts; nếu mất mạng, trình duyệt dùng font hệ thống dự phòng.
+- Hình logo và Owlie được tái sử dụng từ bộ ảnh người dùng đã cung cấp.
+- Chỉ thay nội dung tài liệu, không thay thế các liên kết của website CFL VSTEP trước đó.
